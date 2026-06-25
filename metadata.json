@@ -1,0 +1,6 @@
+{
+  "name": "SoftSiphon",
+  "description": "Visualización de alta fidelidad y landing page interactiva para SoftSiphon, empresa líder en tecnología de sifonado de datos y flujos de información inteligentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
